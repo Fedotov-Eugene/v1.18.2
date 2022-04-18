@@ -1,0 +1,6 @@
+/server/logs
+/server/bundler
+/server/world
+/server/world_nether
+/server/world_the_end
+.idea
